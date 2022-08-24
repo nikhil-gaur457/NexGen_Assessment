@@ -1,6 +1,6 @@
 # NexGen_Assessment
 nexGen_iot_assessment
-Step 1: install MySql
+Step 1: install MySql<br>
 step 2: install postman
 step 3: installing the dependencies of spring boot(data_JPA, starter web and connector).
 step 4: updated the table in MySql and configure with database
